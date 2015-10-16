@@ -18,6 +18,4 @@ private:
 	Player * player;
 	Sector * sectors[4];
 	Element * scrolls[12];
-
-
 };
